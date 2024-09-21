@@ -22,7 +22,7 @@ I am a passionate Applied Scientist and Machine Learning Engineer with expertise
 ## Education
 
 - M.S. in Computer Science, Georgia Institute of Technology
-- M.A./Ph.D. in Environmental Science, University of California Santa Barbara
+- M.A./Ph.D. in Environmental Data Science, University of California Santa Barbara
 
 ## Selected Publications
 
