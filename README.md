@@ -16,7 +16,9 @@ I am a passionate Applied Scientist and Machine Learning Engineer with expertise
 ## Experience Highlights
 
 - **Independent Consultant** (2021-present): Reduced property evaluation time by 50% using ML-powered dashboards.
+- **Open Geospatial Consortium** (2024~present): Developed and fine-tuned a recommendation system for OGC engineering reports using Low-Rank Adaptation (LoRA), increasing report accuracy by 20%.    
 - **Descartes Labs** (2021-2023): Delivered time series-based deep learning solutions for crop yield prediction.
+- **Bank of America** (2021): Refactored macroeconomic model pipelines in Python, achieving a 30% reduction in processing time.
 - **The Climate Corporation** (2020-2021): Developed computer vision models for crop growth detection.
 
 ## Education
