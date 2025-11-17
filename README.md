@@ -10,7 +10,7 @@ I am a passionate Applied Scientist and Machine Learning Engineer with expertise
 
 - **Programming:** Python (Scikit-learn, TensorFlow, PyTorch, Jax, Dask), C++, R, SQL, Bash
 - **AI/ML & Data Science:** Large Language Models (GPT4, llama3, Claude 3.5), Regression and Classification Models, Anomaly Detection, Time Series Analysis, NLP, Computer Vision
-- **Cloud & Tools:** AWS (S3/Lambda, Batch, Sagemaker, CDK), Google Cloud Platform (BigQuery, Anthos, Cloud Run), Git/GitHub, Huggingface, Apache Spark
+- **Cloud & Tools:** Azure(CosmosDB, AI Foundry), AWS (S3/Lambda, Batch, Sagemaker, CDK), Google Cloud Platform (BigQuery, Anthos, Cloud Run), Git/GitHub, Huggingface, Apache Spark
 - **Soft Skills:** Strategic Planning, Scrum and Agile Methodologies, Training & Mentoring, Cross-Team Collaboration, Leadership
 
 ## Experience Highlights
