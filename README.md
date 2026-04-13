@@ -1,4 +1,4 @@
-# YJ Chen intro
+# YJC intro
 
  📧 cyingjung@gmail.com | 💼 [LinkedIn](https://www.linkedin.com/in/yj-elizabeth-chen) | 📍 S.F. Bay area, CA | 🇺🇸 US Citizen
 
